@@ -6,4 +6,4 @@ while restrict responsibilities.
 
 Uses com.caucho.quercus (a.k.a. Resin).
 
-![Diagram](https://github.com/AndreyLebedenko/dropwizard-php-gate/raw/master/Dropwizard-PHP.png)
+![Diagram](https://github.com/AndreyLebedenko/dropwizard-php-gate/raw/master/Dropwizard-PHP-Gate.png)
